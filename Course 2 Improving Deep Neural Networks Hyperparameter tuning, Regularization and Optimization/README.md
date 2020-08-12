@@ -1,4 +1,4 @@
-# Course 1: Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization
+# Course 2: Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization
 
 
 ## [Programming Assignment 1: Initialization](https://github.com/ngthianhphuong/deep-learning-specialization/tree/master/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization)
@@ -48,3 +48,10 @@ Skills learned:
 - Recognize the importance of mini-batch gradient descent
 
 - Learn the effects of momentum on the overall performance of your model
+
+## [TensorFlow Programming Assignment](https://github.com/ngthianhphuong/deep-learning-specialization/tree/master/Course%202%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/TensorFlow_Tutorial)
+Skills learned:
+- Learn all the basics of Tensorflow, implement useful functions, understand what Tensors and operations are, as well as how to execute them in a computation graph.
+
+- Implement your own deep learning models using Tensorflow: using our brand new SIGNS dataset, you will build a deep neural network model to recognize numbers from 0 to 5 in sign language with a pretty impressive accuracy.
+
